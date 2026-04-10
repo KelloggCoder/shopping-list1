@@ -1,3 +1,5 @@
 - bacon
 - eggs
 - fruit
+- chips
+- carrots
